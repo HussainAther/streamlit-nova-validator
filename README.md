@@ -106,8 +106,6 @@ MIT
 
 # 📂 Repo Structure
 
-```
-
 streamlit-nova-validator/
 ├── app.py                     # Streamlit web app
 ├── extractor\_bedrock.py       # AWS Nova (Bedrock) client
