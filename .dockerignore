@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.env
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Local data & artifacts
+*.db
+*.sqlite
+*.zip
+
+# Sample data (exclude everything except the example CSV)
+sample_data/*
+!sample_data/sample_reports.csv
+
